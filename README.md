@@ -7,4 +7,4 @@ Before you can use this script, ensure that you have the following installed:
 Python 3.x
 pandas and openpyxl library
 
-'''pip install pandas openpyxl'''
+```pip install pandas openpyxl```
