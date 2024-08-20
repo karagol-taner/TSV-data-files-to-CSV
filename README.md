@@ -4,7 +4,7 @@ This repository provides a Python script that combines multiple large TSV files 
 
 Before you can use this script, ensure that you have the following installed:
 
-```Python 3.x
-pandas and openpyxl library```
+-Python 3.x
+-pandas and openpyxl library
 
 ```pip install pandas openpyxl```
